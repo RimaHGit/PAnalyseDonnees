@@ -34,5 +34,6 @@ Déterminer des ordres de grandeurs des indicateurs statistiques classiques pour
 Ton travail va nous permettre de déterminer si ce jeu de données peut informer les décisions d'ouverture vers de nouveaux pays. On va partager ton analyse avec le board, alors merci de soigner la présentation et de l'illustrer avec des graphiques pertinents et lisibles !
 
 Livrables attendus
+
 Un notebook comportant les analyses pré-exploratoires réalisées (non cleané, pour comprendre votre démarche).
 Un support de présentation pour la soutenance.
